@@ -1,12 +1,18 @@
-/*  your css code here. If applicable */
-ul{
+.container{
+	display:block;
+	padding:10px;
 	background-color: #D3D3D3;
-	display: flex;
-	
 }
+ul{
+	/* background-color: #D3D3D3; */
+	/* padding: 10px; */
+	display: flex;
+	/* display: inline-block; */
+	/* list-style-type:none;	 */
+}
+
 li{
-	display: inline;
-	padding: 10px;
-	margin-right: 1rem;
+	/* padding: 10px; */
+	margin-right: 16px;
 	list-style-type:none;
 }
