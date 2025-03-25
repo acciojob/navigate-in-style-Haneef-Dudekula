@@ -1,11 +1,11 @@
 /*  your css code here. If applicable */
 ul{
 	background-color: #D3D3D3;
-	/* display: inline; */
+	display: flex;
 	
 }
 li{
-	display:inline;
+	display: inline;
 	padding: 10px;
 	margin-right: 1rem;
 	list-style-type:none;
